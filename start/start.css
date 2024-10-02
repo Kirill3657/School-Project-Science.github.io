@@ -14,3 +14,8 @@ html, body {
     background-color: #1c1f24;
 }
 
+.text {
+    position: absolute;
+    color: white;
+}
+
