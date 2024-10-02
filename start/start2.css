@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1c1f24;
+}
+
+.start-button {
+    width: 200px;
+    height: 200px;
+    background-color: #1c1f24;
+}
+
+.text {
+    top: 0;
+    color: white;
+}
