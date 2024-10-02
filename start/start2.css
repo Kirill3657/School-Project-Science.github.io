@@ -18,4 +18,5 @@ html, body {
 .text {
     top: 0;
     color: white;
+    font-family: Roboto;
 }
