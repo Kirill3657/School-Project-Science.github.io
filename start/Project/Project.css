@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    padding: 0;
+    width: 100%;
+    background-color: #1c1f24;
+}
+
+.text {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    color: white;
+}
+
+.text-end {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    color: white;
+    font-family: Roboto;
+}
